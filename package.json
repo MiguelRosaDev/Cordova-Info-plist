@@ -1,9 +1,9 @@
 {
-  "name": "com.cordova.plugin.HabitPlugin",
+  "name": "com.cordova.plugin.Info-Plist",
   "version": "0.0.1",
-  "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
+  "description": "",
   "cordova": {
-    "id": "com.cordova.plugin.HabitPlugin",
+    "id": "com.cordova.plugin.Info-Plist",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miguelrosanos/NOSHabit.git"
+    "url": "git+https://github.com/miguelrosaDev/Info-Plist.git"
   },
   "keywords": [
     "Toast",
@@ -23,7 +23,7 @@
   ],
   "license": "NOS",
   "bugs": {
-    "url": "https://github.com/MiguelRosaDev/NOSHabit"
+    "url": "https://github.com/MiguelRosaDev/Info-Plist"
   },
-  "homepage": "https://github.com/MiguelRosaDev/NOSHabit"
+  "homepage": "https://github.com/MiguelRosaDev/Info-Plist"
 }
